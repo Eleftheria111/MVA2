@@ -1,2 +1,10 @@
+# Data folders
 video-data/
+test-data/
+
+# Model files
 *.pt
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
